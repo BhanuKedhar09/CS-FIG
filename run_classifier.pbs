@@ -1,0 +1,13 @@
+#!/bin/bash
+#PBS -N FigureClassifier
+#PBS -l walltime=00:20:00
+#PBS -l select=1:ncpus=2:mpiprocs=2:ngpus=1:mem=16gb
+#PBS -o /lstr/sahara/datalab-ml/z1974769/classifier/Image_Predictor_output.txt
+#PBS -e /lstr/sahara/datalab-ml/z1974769/classifier/figure_classifier_error.txt
+#PBS -m abe
+#PBS -M z1974769@metis.niu.edu
+
+
+cd /lstr/sahara/datalab-ml/z1974769/classifier
+
+~/.conda/envs/condavisionenv/bin/python swin_classifier.py

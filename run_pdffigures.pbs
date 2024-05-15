@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -N figureExtractionJob
+#PBS -l walltime=00:50:00
+#PBS -l select=1:ncpus=4:mpiprocs=1:mem=16gb
+#PBS -o figure_extraction_output.txt
+#PBS -e figure_extraction_error.txt
+#PBS -m abe
+#PBS -M z1974769@metis.niu.edu
+
+
+source /etc/profile.d/conda.sh
+
+conda activate condavisionenv
+
+cd /lstr/sahara/datalab-ml/z1974769/outputs_pdffigures/
+
+bash "/lstr/sahara/datalab-ml/z1974769/outputs_pdffigures/extract_images.sh"
+
+conda deactivate

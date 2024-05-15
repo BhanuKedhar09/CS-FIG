@@ -1,0 +1,1008 @@
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'submitter', 'authors', 'title', 'comments', 'journal-ref', 'doi', 'report-no', 'categories', 'license', 'abstract', 'versions', 'update_date', 'authors_parsed'],
+        num_rows: 680414
+    })
+})
+10 unique ids
+Failed to download 1501.07146
+Downloaded 1504.03315
+Downloaded 1502.06111
+Downloaded 1511.07782
+Downloaded 1503.05479
+Downloaded 1511.03847
+Downloaded 1512.03794
+Downloaded 1504.08024
+Downloaded 1511.00609
+Downloaded 1507.06751
+Downloaded 1506.02834
+Downloaded 1507.03331
+Downloaded 1503.04835
+Downloaded 1502.03469
+Failed to download 1507.02590
+Downloaded 1508.03653
+Downloaded 1508.03298
+Downloaded 1507.01784
+Downloaded 1506.00290
+Failed to download 1505.00036
+Downloaded 1506.02288
+Downloaded 1507.05546
+Downloaded 1509.02644
+Failed to download 1502.02910
+Downloaded 1511.06225
+Downloaded 1508.00878
+Downloaded 1507.07282
+Downloaded 1507.06210
+Downloaded 1509.08830
+Downloaded 1507.04924
+Downloaded 1504.05523
+Downloaded 1506.02265
+Downloaded 1506.08059
+Failed to download 1508.01734
+Downloaded 1501.03532
+Downloaded 1505.02592
+Failed to download 1506.03104
+Downloaded 1503.01129
+Error downloading 1512.01750: ('Connection broken: IncompleteRead(1048576 bytes read, 1637414 more expected)', IncompleteRead(1048576 bytes read, 1637414 more expected))
+Downloaded 1510.08398
+Downloaded 1507.04056
+Downloaded 1512.05540
+Downloaded 1503.06727
+Downloaded 1503.02551
+Downloaded 1503.03269
+Downloaded 1506.04610
+Downloaded 1506.01217
+Downloaded 1512.05526
+Failed to download 1507.07453
+Downloaded 1505.04613
+Failed to download 1505.00430
+Downloaded 1508.00862
+Downloaded 1510.03160
+Downloaded 1508.02166
+Downloaded 1512.08413
+Downloaded 1503.02454
+Downloaded 1512.04009
+Failed to download 1504.01889
+Downloaded 1503.01016
+Downloaded 1511.00914
+Downloaded 1512.03654
+Downloaded 1510.08931
+Downloaded 1512.01409
+Downloaded 1511.07875
+Failed to download 1505.05032
+Downloaded 1503.07377
+Failed to download 1502.03634
+Downloaded 1503.00620
+Failed to download 1503.01904
+Error downloading 1510.05328: ('Connection broken: IncompleteRead(1048576 bytes read, 1687670 more expected)', IncompleteRead(1048576 bytes read, 1687670 more expected))
+Downloaded 1501.03334
+Failed to download 1507.02755
+Error downloading 1510.03656: ('Connection broken: IncompleteRead(1048576 bytes read, 8889330 more expected)', IncompleteRead(1048576 bytes read, 8889330 more expected))
+Downloaded 1512.05849
+Failed to download 1505.07291
+Failed to download 1502.00154
+Failed to download 1506.03142
+Error downloading 1506.06179: ('Connection broken: IncompleteRead(2097152 bytes read, 58951 more expected)', IncompleteRead(2097152 bytes read, 58951 more expected))
+Downloaded 1512.05471
+Downloaded 1511.01261
+Failed to download 1501.07451
+Downloaded 1504.05844
+Downloaded 1501.05722
+Failed to download 1506.08183
+Downloaded 1511.01937
+Downloaded 1509.02492
+Downloaded 1507.03274
+Downloaded 1503.08570
+Downloaded 1509.08629
+Downloaded 1508.06711
+Downloaded 1510.01509
+Error downloading 1503.08925: ('Connection broken: IncompleteRead(5242880 bytes read, 376265 more expected)', IncompleteRead(5242880 bytes read, 376265 more expected))
+Downloaded 1508.00179
+Downloaded 1501.01348
+Downloaded 1506.06793
+Downloaded 1510.02908
+Downloaded 1507.03122
+Downloaded 1608.08549
+Failed to download 1606.07407
+Error downloading 1612.02583: ('Connection broken: IncompleteRead(1048576 bytes read, 7734591 more expected)', IncompleteRead(1048576 bytes read, 7734591 more expected))
+Downloaded 1602.07217
+Failed to download 1611.03414
+Error downloading 1611.06797: ('Connection broken: IncompleteRead(1048576 bytes read, 953081 more expected)', IncompleteRead(1048576 bytes read, 953081 more expected))
+Downloaded 1606.02599
+Downloaded 1504.01914
+Error downloading 1505.04557: ('Connection broken: IncompleteRead(3145728 bytes read, 20674 more expected)', IncompleteRead(3145728 bytes read, 20674 more expected))
+Downloaded 1601.06215
+Downloaded 1608.07934
+Error downloading 1509.02642: ('Connection broken: IncompleteRead(1048576 bytes read, 92542 more expected)', IncompleteRead(1048576 bytes read, 92542 more expected))
+Failed to download 1602.06638
+Downloaded 1603.09524
+Downloaded 1601.06705
+Downloaded 1609.05942
+Downloaded 1612.06017
+Downloaded 1610.01508
+Downloaded 1611.08767
+Downloaded 1605.04723
+Downloaded 1611.08901
+Downloaded 1606.03988
+Downloaded 1608.03044
+Failed to download 1610.03466
+Downloaded 1612.08381
+Downloaded 1602.02474
+Failed to download 1611.08505
+Downloaded 1610.01443
+Downloaded 1601.03027
+Error downloading 1610.01636: ('Connection broken: IncompleteRead(2097152 bytes read, 425282 more expected)', IncompleteRead(2097152 bytes read, 425282 more expected))
+Downloaded 1610.03362
+Downloaded 1602.06643
+Downloaded 1602.07618
+Downloaded 1602.07813
+Failed to download 1611.08107
+Downloaded 1604.04403
+Error downloading 1611.08563: ('Connection broken: IncompleteRead(1048576 bytes read, 2498582 more expected)', IncompleteRead(1048576 bytes read, 2498582 more expected))
+Downloaded 1610.07521
+Downloaded 1607.08131
+Downloaded 1611.06362
+Downloaded 1612.02820
+Downloaded 1608.06748
+Downloaded 1609.01814
+Downloaded 1609.08801
+Downloaded 1612.06441
+Error downloading 1604.06830: ('Connection broken: IncompleteRead(1048576 bytes read, 1873464 more expected)', IncompleteRead(1048576 bytes read, 1873464 more expected))
+Failed to download 1601.07262
+Downloaded 1612.08338
+Downloaded 1610.05032
+Error downloading 1604.07709: ('Connection broken: IncompleteRead(2097152 bytes read, 5947943 more expected)', IncompleteRead(2097152 bytes read, 5947943 more expected))
+Downloaded 1605.01188
+Failed to download 1607.04492
+Downloaded 1610.07772
+Error downloading 1605.03124: ('Connection broken: IncompleteRead(5242880 bytes read, 542596 more expected)', IncompleteRead(5242880 bytes read, 542596 more expected))
+Error downloading 1612.07642: ('Connection broken: IncompleteRead(1048576 bytes read, 111212 more expected)', IncompleteRead(1048576 bytes read, 111212 more expected))
+Failed to download 1609.01151
+Downloaded 1611.05490
+Error downloading 1606.09431: ('Connection broken: IncompleteRead(1048576 bytes read, 832319 more expected)', IncompleteRead(1048576 bytes read, 832319 more expected))
+Downloaded 1612.08455
+Downloaded 1611.07860
+Error downloading 1612.02261: ('Connection broken: IncompleteRead(7340032 bytes read, 37026303 more expected)', IncompleteRead(7340032 bytes read, 37026303 more expected))
+Downloaded 1607.02488
+Downloaded 1609.07245
+Failed to download 1606.03469
+Downloaded 1604.05545
+Downloaded 1601.07702
+Downloaded 1611.02351
+Downloaded 1605.03072
+Downloaded 1612.04499
+Error downloading 1608.03440: ('Connection broken: IncompleteRead(6291456 bytes read, 4304968 more expected)', IncompleteRead(6291456 bytes read, 4304968 more expected))
+Downloaded 1612.02979
+Downloaded 1604.06949
+Downloaded 1609.07709
+Downloaded 1605.00042
+Downloaded 1612.02862
+Downloaded 1604.02183
+Downloaded 1609.06530
+Downloaded 1602.06067
+Downloaded 1611.08014
+Downloaded 1606.01931
+Downloaded 1609.09506
+Failed to download 1603.03129
+Error downloading 1610.08187: ('Connection broken: IncompleteRead(1048576 bytes read, 39803937 more expected)', IncompleteRead(1048576 bytes read, 39803937 more expected))
+Downloaded 1608.01990
+Downloaded 1609.01078
+Failed to download 1608.05580
+Downloaded 1605.09520
+Downloaded 1608.04768
+Downloaded 1606.04917
+Downloaded 1612.01752
+Error downloading 1612.00875: ('Connection broken: IncompleteRead(1048576 bytes read, 4142989 more expected)', IncompleteRead(1048576 bytes read, 4142989 more expected))
+Downloaded 1604.04372
+Downloaded 1612.07562
+Downloaded 1605.00105
+Downloaded 1606.05414
+Downloaded 1610.00906
+Failed to download 1702.04877
+Downloaded 1601.00979
+Downloaded 1710.07365
+Downloaded 1712.02881
+Downloaded 1608.02926
+Downloaded 1604.02511
+Failed to download 1708.07762
+Downloaded 1612.09597
+Downloaded 1706.05830
+Downloaded 1604.03167
+Failed to download 1710.02804
+Downloaded 1604.00641
+Downloaded 1701.06685
+Downloaded 1710.07719
+Error downloading 1705.07025: ('Connection broken: IncompleteRead(2097152 bytes read, 1032616 more expected)', IncompleteRead(2097152 bytes read, 1032616 more expected))
+Failed to download 1701.05929
+Error downloading 1709.06526: ('Connection broken: IncompleteRead(1048576 bytes read, 702452 more expected)', IncompleteRead(1048576 bytes read, 702452 more expected))
+Downloaded 1701.06268
+Failed to download 1706.10028
+Downloaded 1706.09585
+Downloaded 1709.00783
+Downloaded 1708.03696
+Downloaded 1702.05544
+Downloaded 1709.00101
+Downloaded 1707.02785
+Downloaded 1711.01897
+Downloaded 1711.07908
+Downloaded 1705.04225
+Downloaded 1711.05052
+Failed to download 1707.02209
+Downloaded 1707.04501
+Downloaded 1709.03410
+Downloaded 1709.08820
+Downloaded 1711.03782
+Failed to download 1710.10967
+Error downloading 1701.07875: ('Connection broken: IncompleteRead(2097152 bytes read, 6737435 more expected)', IncompleteRead(2097152 bytes read, 6737435 more expected))
+Failed to download 1708.07915
+Failed to download 1702.02279
+Downloaded 1705.06102
+Downloaded 1609.02687
+Downloaded 1703.10127
+Downloaded 1701.00458
+Downloaded 1707.05994
+Downloaded 1709.10154
+Downloaded 1710.03387
+Downloaded 1711.07397
+Downloaded 1711.06794
+Downloaded 1707.04044
+Downloaded 1708.01502
+Downloaded 1711.03806
+Downloaded 1708.03832
+Failed to download 1706.07503
+Downloaded 1708.02966
+Downloaded 1704.03730
+Downloaded 1703.01732
+Downloaded 1704.07191
+Downloaded 1704.06326
+Failed to download 1712.03073
+Downloaded 1706.01380
+Downloaded 1708.04116
+Downloaded 1705.10882
+Error downloading 1708.05514: ('Connection broken: IncompleteRead(5242880 bytes read, 331618 more expected)', IncompleteRead(5242880 bytes read, 331618 more expected))
+Downloaded 1705.02521
+Downloaded 1703.03073
+Downloaded 1712.01813
+Downloaded 1711.03638
+Failed to download 1702.08726
+Failed to download 1706.04166
+Downloaded 1702.00780
+Downloaded 1709.09939
+Downloaded 1712.00181
+Failed to download 1710.09074
+Downloaded 1705.07652
+Downloaded 1711.05934
+Downloaded 1711.01845
+Downloaded 1708.06623
+Downloaded 1703.02828
+Error downloading 1706.09491: ('Connection broken: IncompleteRead(1048576 bytes read, 612649 more expected)', IncompleteRead(1048576 bytes read, 612649 more expected))
+Downloaded 1712.08841
+Downloaded 1701.05792
+Downloaded 1710.11345
+Downloaded 1711.11373
+Downloaded 1712.02946
+Downloaded 1702.04243
+Downloaded 1712.09068
+Downloaded 1708.01019
+Failed to download 1703.05456
+Downloaded 1706.04924
+Downloaded 1711.02324
+Downloaded 1707.08794
+Error downloading 1705.07185: ('Connection broken: IncompleteRead(1048576 bytes read, 1150258 more expected)', IncompleteRead(1048576 bytes read, 1150258 more expected))
+Downloaded 1701.08701
+Downloaded 1708.08127
+Downloaded 1705.00116
+Downloaded 1705.05874
+Downloaded 1709.09345
+Downloaded 1703.04474
+Downloaded 1703.03378
+Error downloading 1709.04281: ('Connection broken: IncompleteRead(4194304 bytes read, 100858 more expected)', IncompleteRead(4194304 bytes read, 100858 more expected))
+Downloaded 1701.07044
+Downloaded 1704.07569
+Failed to download 1810.11603
+Downloaded 1709.02741
+Downloaded 1705.06959
+Downloaded 1805.04276
+Downloaded 1805.11526
+Downloaded 1807.00774
+Downloaded 1711.09869
+Downloaded 1805.00438
+Failed to download 1806.04185
+Failed to download 1802.04508
+Downloaded 1705.05615
+Downloaded 1803.07382
+Downloaded 1811.02131
+Downloaded 1806.03210
+Downloaded 1704.09012
+Downloaded 1804.06689
+Failed to download 1801.05582
+Downloaded 1803.09033
+Downloaded 1811.10553
+Downloaded 1812.04048
+Downloaded 1810.07215
+Downloaded 1803.08643
+Downloaded 1801.00909
+Failed to download 1805.08013
+Downloaded 1811.00859
+Downloaded 1801.03554
+Error downloading 1808.00265: ('Connection broken: IncompleteRead(4194304 bytes read, 3063152 more expected)', IncompleteRead(4194304 bytes read, 3063152 more expected))
+Error downloading 1810.09654: ('Connection broken: IncompleteRead(1048576 bytes read, 107017 more expected)', IncompleteRead(1048576 bytes read, 107017 more expected))
+Downloaded 1806.02750
+Error downloading 1812.08313: ('Connection broken: IncompleteRead(1048576 bytes read, 4803696 more expected)', IncompleteRead(1048576 bytes read, 4803696 more expected))
+Downloaded 1806.04067
+Downloaded 1804.02466
+Error downloading 1811.12604: ('Connection broken: IncompleteRead(1048576 bytes read, 8353121 more expected)', IncompleteRead(1048576 bytes read, 8353121 more expected))
+Downloaded 1811.03691
+Downloaded 1804.08066
+Downloaded 1803.06591
+Downloaded 1707.07360
+Downloaded 1804.01855
+Error downloading 1807.11032: ('Connection broken: IncompleteRead(7340032 bytes read, 2332493 more expected)', IncompleteRead(7340032 bytes read, 2332493 more expected))
+Downloaded 1811.09350
+Downloaded 1810.09586
+Error downloading 1802.01072: ('Connection broken: IncompleteRead(3145728 bytes read, 6922843 more expected)', IncompleteRead(3145728 bytes read, 6922843 more expected))
+Failed to download 1801.05382
+Downloaded 1807.03089
+Downloaded 1811.01356
+Downloaded 1807.08957
+Downloaded 1801.09383
+Error downloading 1801.01337: ('Connection broken: IncompleteRead(2097152 bytes read, 2327002 more expected)', IncompleteRead(2097152 bytes read, 2327002 more expected))
+Downloaded 1804.05251
+Downloaded 1802.00890
+Downloaded 1809.06222
+Downloaded 1801.09771
+Downloaded 1803.02354
+Downloaded 1803.01680
+Downloaded 1807.09054
+Error downloading 1810.06760: ('Connection broken: IncompleteRead(3145728 bytes read, 988804 more expected)', IncompleteRead(3145728 bytes read, 988804 more expected))
+Downloaded 1806.09921
+Downloaded 1804.08454
+Downloaded 1807.00382
+Downloaded 1803.08432
+Downloaded 1809.08716
+Downloaded 1812.08939
+Failed to download 1810.01246
+Error downloading 1802.07860: ('Connection broken: IncompleteRead(5242880 bytes read, 3231673 more expected)', IncompleteRead(5242880 bytes read, 3231673 more expected))
+Downloaded 1807.03862
+Downloaded 1809.06641
+Downloaded 1805.04687
+Failed to download 1811.06822
+Error downloading 1809.11095: ('Connection broken: IncompleteRead(1048576 bytes read, 95531 more expected)', IncompleteRead(1048576 bytes read, 95531 more expected))
+Failed to download 1805.05576
+Error downloading 1806.08265: ('Connection broken: IncompleteRead(1048576 bytes read, 4161313 more expected)', IncompleteRead(1048576 bytes read, 4161313 more expected))
+Error downloading 1812.04518: ('Connection broken: IncompleteRead(1048576 bytes read, 1479994 more expected)', IncompleteRead(1048576 bytes read, 1479994 more expected))
+Downloaded 1810.09150
+Downloaded 1805.05475
+Downloaded 1803.10159
+Downloaded 1809.06220
+Failed to download 1812.04943
+Downloaded 1805.05942
+Downloaded 1808.05293
+Downloaded 1806.08198
+Downloaded 1801.06459
+Downloaded 1804.05053
+Error downloading 1805.06468: ('Connection broken: IncompleteRead(1048576 bytes read, 756896 more expected)', IncompleteRead(1048576 bytes read, 756896 more expected))
+Downloaded 1808.09526
+Error downloading 1809.10430: ('Connection broken: IncompleteRead(3145728 bytes read, 474024 more expected)', IncompleteRead(3145728 bytes read, 474024 more expected))
+Downloaded 1805.01151
+Downloaded 1811.04492
+Error downloading 1806.03030: ('Connection broken: IncompleteRead(1048576 bytes read, 274893 more expected)', IncompleteRead(1048576 bytes read, 274893 more expected))
+Failed to download 1803.07033
+Error downloading 1805.08193: ('Connection broken: IncompleteRead(2097152 bytes read, 403919 more expected)', IncompleteRead(2097152 bytes read, 403919 more expected))
+Downloaded 1804.07747
+Downloaded 1808.05367
+Downloaded 1807.00502
+Downloaded 1801.02031
+Downloaded 1801.03278
+Downloaded 1802.00379
+Downloaded 1811.12803
+Failed to download 1812.01148
+Downloaded 1810.10326
+Downloaded 1805.08096
+Downloaded 1902.09212
+Downloaded 1802.02397
+Failed to download 1909.12894
+Downloaded 1803.04239
+Downloaded 1809.02394
+Downloaded 1903.07477
+Error downloading 1810.12785: ('Connection broken: IncompleteRead(2097152 bytes read, 4967109 more expected)', IncompleteRead(2097152 bytes read, 4967109 more expected))
+Error downloading 1809.06690: ('Connection broken: IncompleteRead(3145728 bytes read, 1434025 more expected)', IncompleteRead(3145728 bytes read, 1434025 more expected))
+Failed to download 1902.10391
+Downloaded 1806.03695
+Failed to download 1906.03531
+Downloaded 1905.10792
+Downloaded 1911.12661
+Downloaded 1908.08044
+Downloaded 1908.00528
+Downloaded 1901.05623
+Downloaded 1911.01918
+Downloaded 1904.03987
+Downloaded 1911.04307
+Downloaded 1903.05157
+Downloaded 1905.08650
+Downloaded 1910.11643
+Failed to download 1906.09551
+Downloaded 1911.02107
+Downloaded 1911.02653
+Error downloading 1904.04145: ('Connection broken: IncompleteRead(2097152 bytes read, 12002338 more expected)', IncompleteRead(2097152 bytes read, 12002338 more expected))
+Failed to download 1907.13036
+Downloaded 1910.05664
+Downloaded 1905.08362
+Downloaded 1904.12780
+Downloaded 1904.03695
+Downloaded 1902.04213
+Downloaded 1907.05919
+Failed to download 1908.09101
+Failed to download 1904.00592
+Downloaded 1907.11135
+Downloaded 1906.00870
+Downloaded 1906.11019
+Downloaded 1902.01753
+Downloaded 1902.09113
+Downloaded 1901.05569
+Downloaded 1906.05820
+Downloaded 1907.06124
+Error downloading 1907.08004: ('Connection broken: IncompleteRead(1048576 bytes read, 2675899 more expected)', IncompleteRead(1048576 bytes read, 2675899 more expected))
+Failed to download 1911.10455
+Failed to download 1902.07742
+Downloaded 1912.04003
+Failed to download 1903.11456
+Downloaded 1905.08742
+Downloaded 1909.13621
+Error downloading 1910.11919: ('Connection broken: IncompleteRead(1048576 bytes read, 6704265 more expected)', IncompleteRead(1048576 bytes read, 6704265 more expected))
+Downloaded 1905.04445
+Downloaded 1910.07415
+Downloaded 1906.01975
+Failed to download 1902.09645
+Downloaded 1903.07403
+Downloaded 1904.13178
+Error downloading 1910.10892: ('Connection broken: IncompleteRead(2097152 bytes read, 8406937 more expected)', IncompleteRead(2097152 bytes read, 8406937 more expected))
+Error downloading 1904.11489: ('Connection broken: IncompleteRead(2097152 bytes read, 2344541 more expected)', IncompleteRead(2097152 bytes read, 2344541 more expected))
+Failed to download 1901.09650
+Downloaded 1908.10400
+Downloaded 1908.00928
+Downloaded 1910.11363
+Downloaded 1910.12454
+Downloaded 1906.04129
+Downloaded 1902.05218
+Downloaded 1912.08473
+Error downloading 1908.00853: ('Connection broken: IncompleteRead(2097152 bytes read, 1027098 more expected)', IncompleteRead(2097152 bytes read, 1027098 more expected))
+Failed to download 1912.00486
+Downloaded 1907.02956
+Failed to download 1903.05560
+Error downloading 1905.10396: ('Connection broken: IncompleteRead(3145728 bytes read, 2916029 more expected)', IncompleteRead(3145728 bytes read, 2916029 more expected))
+Downloaded 1911.02363
+Downloaded 1903.11821
+Downloaded 1904.04148
+Downloaded 1904.01790
+Failed to download 1911.10863
+Downloaded 1907.01755
+Error downloading 1910.10895: ('Connection broken: IncompleteRead(3145728 bytes read, 3903357 more expected)', IncompleteRead(3145728 bytes read, 3903357 more expected))
+Failed to download 1911.05458
+Error downloading 1908.03618: ('Connection broken: IncompleteRead(2097152 bytes read, 3565683 more expected)', IncompleteRead(2097152 bytes read, 3565683 more expected))
+Downloaded 1911.11834
+Downloaded 1907.08176
+Downloaded 1911.03897
+Downloaded 1912.06460
+Downloaded 1901.11196
+Downloaded 1910.05705
+Downloaded 1912.05858
+Downloaded 1911.07344
+Downloaded 1909.06463
+Downloaded 1905.10008
+Downloaded 1903.01344
+Downloaded 1904.09370
+Downloaded 1905.03679
+Downloaded 1902.06163
+Error downloading 1907.06853: ('Connection broken: IncompleteRead(2097152 bytes read, 5553140 more expected)', IncompleteRead(2097152 bytes read, 5553140 more expected))
+Downloaded 1911.08618
+Downloaded 1912.01429
+Downloaded 1906.01271
+Failed to download 2005.08601
+Downloaded 1904.04795
+Downloaded 2007.05569
+Downloaded 1904.08262
+Failed to download 2010.10710
+Downloaded 1909.01161
+Failed to download 2002.09182
+Error downloading 1910.14645: ('Connection broken: IncompleteRead(4194304 bytes read, 5976125 more expected)', IncompleteRead(4194304 bytes read, 5976125 more expected))
+Downloaded 2004.09096
+Downloaded 1905.11548
+Error downloading 1908.03472: ('Connection broken: IncompleteRead(3145728 bytes read, 1378160 more expected)', IncompleteRead(3145728 bytes read, 1378160 more expected))
+Failed to download 2011.14941
+Downloaded 2002.09126
+Downloaded 2004.09600
+Downloaded 2009.09230
+Downloaded 2001.05306
+Downloaded 2006.09485
+Error downloading 2006.11639: ('Connection broken: IncompleteRead(1048576 bytes read, 2226486 more expected)', IncompleteRead(1048576 bytes read, 2226486 more expected))
+Downloaded 2001.00449
+Downloaded 2004.02635
+Error downloading 2005.05432: ('Connection broken: IncompleteRead(1048576 bytes read, 2797163 more expected)', IncompleteRead(1048576 bytes read, 2797163 more expected))
+Error downloading 2002.05552: ('Connection broken: IncompleteRead(2097152 bytes read, 6331281 more expected)', IncompleteRead(2097152 bytes read, 6331281 more expected))
+Downloaded 1906.01678
+Error downloading 2012.03107: ('Connection broken: IncompleteRead(2097152 bytes read, 10333499 more expected)', IncompleteRead(2097152 bytes read, 10333499 more expected))
+Downloaded 2011.03863
+Failed to download 2004.01773
+Failed to download 2002.04860
+Downloaded 2005.02596
+Downloaded 2004.07126
+Downloaded 2007.08979
+Failed to download 2004.06220
+Downloaded 2008.01707
+Downloaded 2001.06235
+Downloaded 2009.01679
+Failed to download 2010.14121
+Downloaded 2012.09928
+Downloaded 2006.00367
+Failed to download 2004.06386
+Downloaded 2002.07778
+Downloaded 2010.03022
+Downloaded 2011.10835
+Downloaded 2009.05445
+Downloaded 2011.02096
+Downloaded 2011.06679
+Downloaded 2005.06728
+Downloaded 2011.03218
+Error downloading 2010.03454: ('Connection broken: IncompleteRead(2097152 bytes read, 128030 more expected)', IncompleteRead(2097152 bytes read, 128030 more expected))
+Downloaded 2004.04916
+Downloaded 2002.07892
+Downloaded 2006.06066
+Downloaded 2002.06923
+Failed to download 2007.04810
+Downloaded 2011.12574
+Downloaded 2009.04013
+Failed to download 2012.09712
+Downloaded 2008.03252
+Error downloading 2006.00694: ('Connection broken: IncompleteRead(1048576 bytes read, 91113 more expected)', IncompleteRead(1048576 bytes read, 91113 more expected))
+Downloaded 2010.03189
+Downloaded 2011.07343
+Downloaded 2009.13900
+Failed to download 2010.03373
+Downloaded 2011.03143
+Error downloading 2012.08125: ('Connection broken: IncompleteRead(10485760 bytes read, 19707191 more expected)', IncompleteRead(10485760 bytes read, 19707191 more expected))
+Downloaded 2012.05163
+Failed to download 2003.13964
+Downloaded 2007.04019
+Downloaded 2011.01607
+Downloaded 2011.08692
+Downloaded 2001.05479
+Downloaded 2001.07031
+Error downloading 2002.00113: ('Connection broken: IncompleteRead(1048576 bytes read, 7846219 more expected)', IncompleteRead(1048576 bytes read, 7846219 more expected))
+Downloaded 2007.15115
+Downloaded 2010.01400
+Downloaded 2001.07775
+Error downloading 2003.05760: ('Connection broken: IncompleteRead(2097152 bytes read, 968223 more expected)', IncompleteRead(2097152 bytes read, 968223 more expected))
+Downloaded 2009.08569
+Downloaded 2008.08148
+Downloaded 2011.05079
+Downloaded 2011.07482
+Failed to download 2002.01299
+Error downloading 2012.05633: ('Connection broken: IncompleteRead(4194304 bytes read, 872516 more expected)', IncompleteRead(4194304 bytes read, 872516 more expected))
+Downloaded 2002.06070
+Failed to download 2001.01240
+Downloaded 2009.08386
+Error downloading 2010.14209: ('Connection broken: IncompleteRead(4194304 bytes read, 22377406 more expected)', IncompleteRead(4194304 bytes read, 22377406 more expected))
+Downloaded 2010.12184
+Downloaded 2010.06432
+Downloaded 2006.09881
+Downloaded 2001.11625
+Downloaded 2008.07344
+Downloaded 2006.01674
+Failed to download 2005.03075
+Failed to download 2011.00032
+Downloaded 2009.07174
+Downloaded 2011.08879
+Failed to download 2005.01561
+Downloaded 2004.03428
+Downloaded 2001.03437
+Downloaded 2008.04175
+Downloaded 2008.01835
+Downloaded 2005.13853
+Downloaded 2012.04327
+Downloaded 2101.03591
+Failed to download 2109.01918
+Downloaded 2003.01886
+Downloaded 2106.04512
+Downloaded 2012.09411
+Downloaded 2003.12101
+Downloaded 2108.11904
+Downloaded 2104.03219
+Failed to download 2111.04307
+Downloaded 2107.11162
+Downloaded 2107.04012
+Downloaded 2102.08078
+Error downloading 2004.00184: ('Connection broken: IncompleteRead(4194304 bytes read, 7065974 more expected)', IncompleteRead(4194304 bytes read, 7065974 more expected))
+Downloaded 2109.03756
+Downloaded 2106.12023
+Downloaded 2105.08880
+Error downloading 2108.05650: ('Connection broken: IncompleteRead(3145728 bytes read, 19851424 more expected)', IncompleteRead(3145728 bytes read, 19851424 more expected))
+Error downloading 2101.02458: ('Connection broken: IncompleteRead(1048576 bytes read, 531211 more expected)', IncompleteRead(1048576 bytes read, 531211 more expected))
+Downloaded 2103.02356
+Error downloading 2012.04865: ('Connection broken: IncompleteRead(10485760 bytes read, 131429 more expected)', IncompleteRead(10485760 bytes read, 131429 more expected))
+Downloaded 2112.04709
+Error downloading 2103.03420: ('Connection broken: IncompleteRead(1048576 bytes read, 3695144 more expected)', IncompleteRead(1048576 bytes read, 3695144 more expected))
+Downloaded 2103.00866
+Downloaded 2105.12767
+Error downloading 2111.12866: ('Connection broken: IncompleteRead(2097152 bytes read, 18288151 more expected)', IncompleteRead(2097152 bytes read, 18288151 more expected))
+Error downloading 2106.00601: ('Connection broken: IncompleteRead(1048576 bytes read, 2364502 more expected)', IncompleteRead(1048576 bytes read, 2364502 more expected))
+Downloaded 2104.00213
+Error downloading 2109.02666: ('Connection broken: IncompleteRead(1048576 bytes read, 3007294 more expected)', IncompleteRead(1048576 bytes read, 3007294 more expected))
+Failed to download 2101.06823
+Failed to download 2109.14794
+Downloaded 2111.00674
+Failed to download 2103.06568
+Failed to download 2101.08542
+Downloaded 2108.09433
+Failed to download 2104.02758
+Error downloading 2108.08772: ('Connection broken: IncompleteRead(3145728 bytes read, 601255 more expected)', IncompleteRead(3145728 bytes read, 601255 more expected))
+Downloaded 2105.12387
+Downloaded 2109.03664
+Downloaded 2112.06700
+Failed to download 2104.01997
+Failed to download 2109.06828
+Downloaded 2107.07451
+Error downloading 2111.13333: ('Connection broken: IncompleteRead(8388608 bytes read, 18252239 more expected)', IncompleteRead(8388608 bytes read, 18252239 more expected))
+Failed to download 2104.09642
+Downloaded 2108.12461
+Downloaded 2103.00154
+Downloaded 2104.12836
+Failed to download 2109.00663
+Failed to download 2105.12731
+Downloaded 2103.03902
+Failed to download 2112.10919
+Downloaded 2105.02118
+Error downloading 2108.05985: ('Connection broken: IncompleteRead(1048576 bytes read, 2695105 more expected)', IncompleteRead(1048576 bytes read, 2695105 more expected))
+Downloaded 2102.04737
+Downloaded 2111.02583
+Downloaded 2105.13890
+Error downloading 2103.13885: ('Connection broken: IncompleteRead(1048576 bytes read, 3462881 more expected)', IncompleteRead(1048576 bytes read, 3462881 more expected))
+Downloaded 2104.10366
+Failed to download 2112.12748
+Failed to download 2111.10722
+Downloaded 2105.10724
+Failed to download 2109.14168
+Downloaded 2103.01530
+Failed to download 2102.08260
+Downloaded 2110.03634
+Failed to download 2112.01758
+Error downloading 2103.02196: ('Connection broken: IncompleteRead(4194304 bytes read, 4819518 more expected)', IncompleteRead(4194304 bytes read, 4819518 more expected))
+Downloaded 2112.14315
+Downloaded 2111.07485
+Failed to download 2112.02282
+Error downloading 2103.14846: ('Connection broken: IncompleteRead(1048576 bytes read, 24640014 more expected)', IncompleteRead(1048576 bytes read, 24640014 more expected))
+Downloaded 2102.13468
+Downloaded 2108.07970
+Downloaded 2105.13022
+Error downloading 2103.00213: ('Connection broken: IncompleteRead(2097152 bytes read, 1545821 more expected)', IncompleteRead(2097152 bytes read, 1545821 more expected))
+Failed to download 2112.15079
+Error downloading 2106.04283: ('Connection broken: IncompleteRead(3145728 bytes read, 5141940 more expected)', IncompleteRead(3145728 bytes read, 5141940 more expected))
+Downloaded 2107.04929
+Downloaded 2106.01941
+Downloaded 2106.02684
+Downloaded 2103.11982
+Downloaded 2109.15010
+Error downloading 2112.07586: ('Connection broken: IncompleteRead(2097152 bytes read, 1504110 more expected)', IncompleteRead(2097152 bytes read, 1504110 more expected))
+Downloaded 2110.03605
+Downloaded 2111.12922
+Downloaded 2102.01116
+Downloaded 2101.05443
+Downloaded 2109.01945
+Failed to download 2104.08026
+Downloaded 2107.08799
+Failed to download 2110.11894
+Downloaded 2103.07528
+Failed to download 2103.00899
+Failed to download 2104.00812
+Error downloading 2107.12143: ('Connection broken: IncompleteRead(2097152 bytes read, 3717689 more expected)', IncompleteRead(2097152 bytes read, 3717689 more expected))
+Downloaded 2110.11952
+Downloaded 2103.09425
+Error downloading 2102.13492: ('Connection broken: IncompleteRead(2097152 bytes read, 3007807 more expected)', IncompleteRead(2097152 bytes read, 3007807 more expected))
+Downloaded 2104.02807
+Downloaded 2112.12638
+Error downloading 2104.03408: ('Connection broken: IncompleteRead(3145728 bytes read, 1391637 more expected)', IncompleteRead(3145728 bytes read, 1391637 more expected))
+Downloaded 2104.11667
+Failed to download 2208.04641
+Error downloading 2103.12286: ('Connection broken: IncompleteRead(1048576 bytes read, 10337057 more expected)', IncompleteRead(1048576 bytes read, 10337057 more expected))
+Downloaded 2209.06858
+Failed to download 2202.03433
+Downloaded 2101.02726
+Downloaded 2203.16843
+Downloaded 2211.06418
+Downloaded 2206.01649
+Downloaded 2211.08006
+Failed to download 2209.07364
+Downloaded 2101.11896
+Downloaded 2202.13266
+Downloaded 2212.09898
+Downloaded 2207.02249
+Downloaded 2202.06622
+Downloaded 2212.03516
+Downloaded 2212.01711
+Downloaded 2205.14474
+Downloaded 2209.01248
+Downloaded 2212.13924
+Downloaded 2212.12439
+Downloaded 2201.11194
+Downloaded 2202.10658
+Error downloading 2210.02631: ('Connection broken: IncompleteRead(1048576 bytes read, 1961810 more expected)', IncompleteRead(1048576 bytes read, 1961810 more expected))
+Error downloading 2206.13462: ('Connection broken: IncompleteRead(1048576 bytes read, 5552207 more expected)', IncompleteRead(1048576 bytes read, 5552207 more expected))
+Downloaded 2201.09658
+Downloaded 2211.08071
+Downloaded 2207.04231
+Downloaded 2206.13010
+Error downloading 2209.06545: ('Connection broken: IncompleteRead(5242880 bytes read, 4143150 more expected)', IncompleteRead(5242880 bytes read, 4143150 more expected))
+Downloaded 2207.08795
+Error downloading 2205.01429: ('Connection broken: IncompleteRead(1048576 bytes read, 1274748 more expected)', IncompleteRead(1048576 bytes read, 1274748 more expected))
+Failed to download 2201.01710
+Failed to download 2205.14393
+Downloaded 2205.01559
+Downloaded 2203.00144
+Error downloading 2201.05955: ('Connection broken: IncompleteRead(1048576 bytes read, 1122984 more expected)', IncompleteRead(1048576 bytes read, 1122984 more expected))
+Downloaded 2211.02825
+Downloaded 2203.03752
+Downloaded 2201.07386
+Downloaded 2202.08250
+Error downloading 2202.13892: ('Connection broken: IncompleteRead(3145728 bytes read, 1264979 more expected)', IncompleteRead(3145728 bytes read, 1264979 more expected))
+Error downloading 2203.04212: ('Connection broken: IncompleteRead(1048576 bytes read, 1806382 more expected)', IncompleteRead(1048576 bytes read, 1806382 more expected))
+Downloaded 2202.13669
+Downloaded 2208.04845
+Downloaded 2201.01003
+Downloaded 2204.09136
+Error downloading 2207.11321: ('Connection broken: IncompleteRead(2097152 bytes read, 14738190 more expected)', IncompleteRead(2097152 bytes read, 14738190 more expected))
+Downloaded 2201.10654
+Downloaded 2203.08610
+Downloaded 2210.15570
+Failed to download 2212.07086
+Failed to download 2209.08416
+Error downloading 2210.02855: ('Connection broken: IncompleteRead(6291456 bytes read, 3441727 more expected)', IncompleteRead(6291456 bytes read, 3441727 more expected))
+Error downloading 2202.04644: ('Connection broken: IncompleteRead(1048576 bytes read, 830859 more expected)', IncompleteRead(1048576 bytes read, 830859 more expected))
+Downloaded 2209.07855
+Downloaded 2204.07564
+Downloaded 2204.13074
+Failed to download 2201.09686
+Downloaded 2204.00791
+Downloaded 2205.03731
+Downloaded 2206.03489
+Error downloading 2209.03690: ('Connection broken: IncompleteRead(1048576 bytes read, 1458527 more expected)', IncompleteRead(1048576 bytes read, 1458527 more expected))
+Error downloading 2209.11766: ('Connection broken: IncompleteRead(2097152 bytes read, 12951598 more expected)', IncompleteRead(2097152 bytes read, 12951598 more expected))
+Downloaded 2208.05645
+Downloaded 2205.15852
+Downloaded 2212.01593
+Error downloading 2212.14593: ('Connection broken: IncompleteRead(7340032 bytes read, 5269255 more expected)', IncompleteRead(7340032 bytes read, 5269255 more expected))
+Error downloading 2205.12182: ('Connection broken: IncompleteRead(4194304 bytes read, 10663322 more expected)', IncompleteRead(4194304 bytes read, 10663322 more expected))
+Downloaded 2211.10558
+Failed to download 2211.01279
+Error downloading 2206.03189: ('Connection broken: IncompleteRead(4194304 bytes read, 3578482 more expected)', IncompleteRead(4194304 bytes read, 3578482 more expected))
+Failed to download 2212.07648
+Downloaded 2208.11700
+Failed to download 2206.15282
+Failed to download 2210.08740
+Downloaded 2203.16006
+Downloaded 2205.10077
+Downloaded 2208.11125
+Downloaded 2204.05579
+Downloaded 2207.07946
+Downloaded 2210.13852
+Downloaded 2201.04715
+Downloaded 2204.02054
+Downloaded 2201.11454
+Error downloading 2202.10376: ('Connection broken: IncompleteRead(7340032 bytes read, 18261783 more expected)', IncompleteRead(7340032 bytes read, 18261783 more expected))
+Downloaded 2203.12276
+Downloaded 2211.10400
+Downloaded 2210.08871
+Downloaded 2210.01063
+Downloaded 2204.10402
+Downloaded 2210.07302
+Error downloading 2209.12640: ('Connection broken: IncompleteRead(2097152 bytes read, 6419765 more expected)', IncompleteRead(2097152 bytes read, 6419765 more expected))
+Downloaded 2211.13331
+Downloaded 2207.13307
+Downloaded 2210.08873
+Error downloading 2211.15412: ('Connection broken: IncompleteRead(1048576 bytes read, 6323594 more expected)', IncompleteRead(1048576 bytes read, 6323594 more expected))
+Downloaded 2204.04139
+Downloaded 2310.14684
+Downloaded 2306.13734
+Downloaded 2309.15216
+Failed to download 2309.09703
+Downloaded 2312.15914
+Failed to download 2301.01315
+Downloaded 2210.03455
+Downloaded 2303.09542
+Downloaded 2302.02369
+Error downloading 2203.14556: ('Connection broken: IncompleteRead(5242880 bytes read, 8705714 more expected)', IncompleteRead(5242880 bytes read, 8705714 more expected))
+Downloaded 2311.01589
+Downloaded 2210.03592
+Downloaded 2305.00673
+Downloaded 2304.04169
+Error downloading 2205.07504: ('Connection broken: IncompleteRead(4194304 bytes read, 15263479 more expected)', IncompleteRead(4194304 bytes read, 15263479 more expected))
+Downloaded 2308.15025
+Error downloading 2312.10811: ('Connection broken: IncompleteRead(1048576 bytes read, 3059214 more expected)', IncompleteRead(1048576 bytes read, 3059214 more expected))
+Downloaded 2303.10974
+Downloaded 2308.06034
+Downloaded 2310.02655
+Failed to download 2309.02371
+Downloaded 2303.00077
+Failed to download 2307.03897
+Error downloading 2303.09628: ('Connection broken: IncompleteRead(3145728 bytes read, 1472568 more expected)', IncompleteRead(3145728 bytes read, 1472568 more expected))
+Downloaded 2303.07936
+Downloaded 2310.02943
+Error downloading 2302.10622: ('Connection broken: IncompleteRead(1048576 bytes read, 4720712 more expected)', IncompleteRead(1048576 bytes read, 4720712 more expected))
+Failed to download 2307.06716
+Downloaded 2303.14189
+Downloaded 2311.05716
+Downloaded 2308.03205
+Downloaded 2310.18181
+Downloaded 2310.12617
+Downloaded 2312.13556
+Error downloading 2309.15812: ('Connection broken: IncompleteRead(1048576 bytes read, 635287 more expected)', IncompleteRead(1048576 bytes read, 635287 more expected))
+Downloaded 2206.05714
+Failed to download 2309.08621
+Downloaded 2312.17342
+Error downloading 2310.04889: ('Connection broken: IncompleteRead(2097152 bytes read, 356824 more expected)', IncompleteRead(2097152 bytes read, 356824 more expected))
+Error downloading 2312.11099: ('Connection broken: IncompleteRead(5242880 bytes read, 942358 more expected)', IncompleteRead(5242880 bytes read, 942358 more expected))
+Downloaded 2306.00668
+Failed to download 2307.14507
+Downloaded 2309.03781
+Downloaded 2310.17676
+Downloaded 2303.11378
+Downloaded 2304.00648
+Error downloading 2311.11347: ('Connection broken: IncompleteRead(1048576 bytes read, 1226048 more expected)', IncompleteRead(1048576 bytes read, 1226048 more expected))
+Failed to download 2303.10007
+Downloaded 2303.07538
+Downloaded 2301.00776
+Failed to download 2301.01142
+Downloaded 2312.12970
+Downloaded 2303.07550
+Downloaded 2303.15610
+Error downloading 2309.13849: ('Connection broken: IncompleteRead(4194304 bytes read, 4317385 more expected)', IncompleteRead(4194304 bytes read, 4317385 more expected))
+Downloaded 2305.10565
+Downloaded 2305.19295
+Failed to download 2305.11243
+Error downloading 2309.12864: ('Connection broken: IncompleteRead(3145728 bytes read, 100709 more expected)', IncompleteRead(3145728 bytes read, 100709 more expected))
+Downloaded 2301.04700
+Downloaded 2304.02689
+Downloaded 2309.05188
+Downloaded 2302.05022
+Failed to download 2311.01815
+Error downloading 2308.02058: ('Connection broken: IncompleteRead(2097152 bytes read, 290459 more expected)', IncompleteRead(2097152 bytes read, 290459 more expected))
+Error downloading 2306.03779: ('Connection broken: IncompleteRead(1048576 bytes read, 31217921 more expected)', IncompleteRead(1048576 bytes read, 31217921 more expected))
+Downloaded 2301.11570
+Downloaded 2305.14591
+Downloaded 2302.06521
+Failed to download 2302.13916
+Error downloading 2309.07609: ('Connection broken: IncompleteRead(3145728 bytes read, 207953 more expected)', IncompleteRead(3145728 bytes read, 207953 more expected))
+Error downloading 2310.11884: ('Connection broken: IncompleteRead(7340032 bytes read, 7650071 more expected)', IncompleteRead(7340032 bytes read, 7650071 more expected))
+Downloaded 2307.08441
+Error downloading 2306.15832: ('Connection broken: IncompleteRead(4194304 bytes read, 6900340 more expected)', IncompleteRead(4194304 bytes read, 6900340 more expected))
+Failed to download 2305.05487
+Downloaded 2307.06640
+Downloaded 2303.09453
+Downloaded 2309.07081
+Downloaded 2305.10072
+Error downloading 2311.13930: ('Connection broken: IncompleteRead(6291456 bytes read, 6434769 more expected)', IncompleteRead(6291456 bytes read, 6434769 more expected))
+Failed to download 2310.01820
+Failed to download 2305.15076
+Downloaded 2310.10619
+Error downloading 2301.02651: ('Connection broken: IncompleteRead(2097152 bytes read, 3691150 more expected)', IncompleteRead(2097152 bytes read, 3691150 more expected))
+Failed to download 2309.15848
+Downloaded 2311.10733
+Downloaded 2302.04798
+Downloaded 2305.12579
+Error downloading 2312.16476: ('Connection broken: IncompleteRead(1048576 bytes read, 38462502 more expected)', IncompleteRead(1048576 bytes read, 38462502 more expected))
+Downloaded 2304.10312
+Downloaded 2311.16896
+Error downloading 2310.05590: ('Connection broken: IncompleteRead(5242880 bytes read, 19181806 more expected)', IncompleteRead(5242880 bytes read, 19181806 more expected))
+Error downloading 2308.14858: ('Connection broken: IncompleteRead(6291456 bytes read, 12121305 more expected)', IncompleteRead(6291456 bytes read, 12121305 more expected))
+Downloaded 2312.10593
+Downloaded 2305.02765
+Downloaded 2310.03370
+Downloaded 2310.15582
+Failed to download 2401.10754
+Downloaded 2309.13705
+Downloaded 2305.17696
+Error downloading 2304.05726: ('Connection broken: IncompleteRead(3145728 bytes read, 18034314 more expected)', IncompleteRead(3145728 bytes read, 18034314 more expected))
+Downloaded 2403.16371
+Downloaded 2305.06114
+Error downloading 2311.06303: ('Connection broken: IncompleteRead(2097152 bytes read, 7793412 more expected)', IncompleteRead(2097152 bytes read, 7793412 more expected))
+Failed to download 2401.03468
+Error downloading 2311.14024: ('Connection broken: IncompleteRead(5242880 bytes read, 1327874 more expected)', IncompleteRead(5242880 bytes read, 1327874 more expected))
+Downloaded 2401.07506
+Failed to download 2402.11647
+Downloaded 2402.14674
+Failed to download 2401.00155
+Downloaded 2403.16046
+Failed to download 2402.09867
+Error downloading 2402.12876: ('Connection broken: IncompleteRead(3145728 bytes read, 452208 more expected)', IncompleteRead(3145728 bytes read, 452208 more expected))
+Downloaded 2402.18196
+Downloaded 2401.15598
+Downloaded 2401.14129
+Error downloading 2403.08433: ('Connection broken: IncompleteRead(4194304 bytes read, 2686952 more expected)', IncompleteRead(4194304 bytes read, 2686952 more expected))
+Downloaded 2402.14884
+Downloaded 2401.11374
+Error downloading 2401.17736: ('Connection broken: IncompleteRead(4194304 bytes read, 5523575 more expected)', IncompleteRead(4194304 bytes read, 5523575 more expected))
+Failed to download 2402.14379
+Error downloading 2304.02977: ('Connection broken: IncompleteRead(7340032 bytes read, 755047 more expected)', IncompleteRead(7340032 bytes read, 755047 more expected))
+Downloaded 2402.16611
+Downloaded 2309.07311
+Error downloading 2402.02414: ('Connection broken: IncompleteRead(5242880 bytes read, 451098 more expected)', IncompleteRead(5242880 bytes read, 451098 more expected))
+Downloaded 2401.12722
+Downloaded 2402.03816
+Error downloading 2402.19215: ('Connection broken: IncompleteRead(1048576 bytes read, 1247437 more expected)', IncompleteRead(1048576 bytes read, 1247437 more expected))
+Failed to download 2403.02211
+Downloaded 2403.12055
+Downloaded 2401.01196
+Downloaded 2401.11710
+Error downloading 2401.15538: ('Connection broken: IncompleteRead(5242880 bytes read, 9993177 more expected)', IncompleteRead(5242880 bytes read, 9993177 more expected))
+Downloaded 2402.13950
+Downloaded 2402.15187
+Error downloading 2402.15351: ('Connection broken: IncompleteRead(2097152 bytes read, 1507446 more expected)', IncompleteRead(2097152 bytes read, 1507446 more expected))
+Downloaded 2402.03616
+Downloaded 2403.19101
+Error downloading 2402.12945: ('Connection broken: IncompleteRead(1048576 bytes read, 8108168 more expected)', IncompleteRead(1048576 bytes read, 8108168 more expected))
+Failed to download 2401.04264
+Downloaded 2403.09919
+Downloaded 2402.01797
+Downloaded 2401.16939
+Error downloading 2402.19024: ('Connection broken: IncompleteRead(5242880 bytes read, 314053 more expected)', IncompleteRead(5242880 bytes read, 314053 more expected))
+Error downloading 2402.15742: ('Connection broken: IncompleteRead(1048576 bytes read, 805122 more expected)', IncompleteRead(1048576 bytes read, 805122 more expected))
+Downloaded 2403.04070
+Downloaded 2402.18875
+Downloaded 2402.17666
+Error downloading 2403.05587: ('Connection broken: IncompleteRead(1048576 bytes read, 3959690 more expected)', IncompleteRead(1048576 bytes read, 3959690 more expected))
+Downloaded 2401.11712
+Failed to download 2403.07651
+Downloaded 2402.04038
+Downloaded 2402.09677
+Error downloading 2403.05955: ('Connection broken: IncompleteRead(7340032 bytes read, 4833919 more expected)', IncompleteRead(7340032 bytes read, 4833919 more expected))
+Downloaded 2402.15750
+Downloaded 2401.13378
+Downloaded 2401.10816
+Downloaded 2402.06357
+Error downloading 2403.12106: ('Connection broken: IncompleteRead(5242880 bytes read, 46243 more expected)', IncompleteRead(5242880 bytes read, 46243 more expected))
+Downloaded 2401.07507
+Downloaded 2403.12282
+Downloaded 2402.07398
+Failed to download 2402.11206
+Downloaded 2402.10052
+Downloaded 2401.08553
+Failed to download 2402.04193
+Error downloading 2402.15580: ('Connection broken: IncompleteRead(2097152 bytes read, 43352005 more expected)', IncompleteRead(2097152 bytes read, 43352005 more expected))
+Error downloading 2403.08728: ('Connection broken: IncompleteRead(5242880 bytes read, 6680625 more expected)', IncompleteRead(5242880 bytes read, 6680625 more expected))
+Error downloading 2403.09259: ('Connection broken: IncompleteRead(1048576 bytes read, 44083 more expected)', IncompleteRead(1048576 bytes read, 44083 more expected))
+Error downloading 2402.09476: ('Connection broken: IncompleteRead(1048576 bytes read, 950356 more expected)', IncompleteRead(1048576 bytes read, 950356 more expected))
+Error downloading 2401.12410: ('Connection broken: IncompleteRead(2097152 bytes read, 8052437 more expected)', IncompleteRead(2097152 bytes read, 8052437 more expected))
+Failed to download 2403.09829
+Downloaded 2402.17179
+Downloaded 2403.19116
+Downloaded 2402.14850
+Downloaded 2403.18497
+Error downloading 2402.09639: ('Connection broken: IncompleteRead(1048576 bytes read, 501497 more expected)', IncompleteRead(1048576 bytes read, 501497 more expected))
+Downloaded 2402.02558
+Downloaded 2402.05125
+Downloaded 2403.17807
+Downloaded 2402.19411
+Downloaded 2401.13653
+Downloaded 2401.10732
+Downloaded 2401.06774
+Downloaded 2401.05204
+Downloaded 2403.12309
+Downloaded 2403.13089
+Error downloading 2403.17001: ('Connection broken: IncompleteRead(2097152 bytes read, 1168766 more expected)', IncompleteRead(2097152 bytes read, 1168766 more expected))
+Error downloading 2403.01112: ('Connection broken: IncompleteRead(14680064 bytes read, 2695619 more expected)', IncompleteRead(14680064 bytes read, 2695619 more expected))
+Error downloading 2402.10095: ('Connection broken: IncompleteRead(1048576 bytes read, 2698498 more expected)', IncompleteRead(1048576 bytes read, 2698498 more expected))
+Downloaded 2401.06712
+Downloaded 2402.12817
+Error downloading 2403.16224: ('Connection broken: IncompleteRead(4194304 bytes read, 2444745 more expected)', IncompleteRead(4194304 bytes read, 2444745 more expected))
+Downloaded 2403.19179
+Downloaded 2401.12153
+Downloaded 2402.18905
+Downloaded 2401.10141
+Downloaded 2402.18101
+Downloaded 2401.04778
+Downloaded 2401.08720
+Downloaded 2402.04991
+Downloaded 2401.14352
+Error downloading 2403.17161: ('Connection broken: IncompleteRead(7340032 bytes read, 537769 more expected)', IncompleteRead(7340032 bytes read, 537769 more expected))
+Error downloading 2403.12659: ('Connection broken: IncompleteRead(13631488 bytes read, 2340440 more expected)', IncompleteRead(13631488 bytes read, 2340440 more expected))
+Error downloading 2402.00017: ('Connection broken: IncompleteRead(9437184 bytes read, 4743688 more expected)', IncompleteRead(9437184 bytes read, 4743688 more expected))
+All downloads completed.
